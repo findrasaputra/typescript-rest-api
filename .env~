@@ -1,0 +1,5 @@
+JWT_SECRET="e4WxqSx0PVssXCIa6uJz985QpUl9BJXkr/XsGcgNtE8="
+DATABASE_URL=postgresql://ftdb_postgres:4T3CHRD5%5Fp0stgr3%24%5E@ftdb-jkt.cra6ckgemaaz.ap-southeast-3.rds.amazonaws.com:5432/cetta_aqms_db
+
+PORT=3002
+HOST_IP="localhost"

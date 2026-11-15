@@ -1,6 +1,7 @@
 {
   "name": "rest-api-showcase",
   "version": "1.0.0",
+  "license": "MIT",
   "scripts": {
     "dev": "bun run --hot src/index.ts",
     "start": "bun run src/index.ts",

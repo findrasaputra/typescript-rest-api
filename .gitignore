@@ -43,3 +43,6 @@ yarn-error.log*
 package-lock.json
 **/*.bun
 bun.lockb
+
+# editor backup files
+*~

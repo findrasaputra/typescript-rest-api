@@ -155,3 +155,7 @@ curl http://localhost:3000/api/tasks \
 | `JWT_SECRET` | Yes | Secret for HS256 JWT signing |
 | `REDIS_HOST` | No | Redis hostname (default `localhost`) |
 | `KAFKA_HOST` | No | Kafka broker hostname (default `localhost`) |
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
